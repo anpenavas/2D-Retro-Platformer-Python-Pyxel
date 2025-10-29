@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Game assets (not included in this repo)
+assets/
+*.pyxres
+
+# Gameplay recordings / captures
+*.gif
+*.mp4
