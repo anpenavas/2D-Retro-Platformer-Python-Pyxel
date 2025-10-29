@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+This license applies to the source code contained in this repository.
+
+Game art, audio, music, sprite sheets, tilemaps and any other media assets are
+intentionally not included in this repository. Such assets (including any
+third-party or placeholder assets you add locally) are NOT covered by this
+license and may be subject to separate copyright or trademark restrictions.
+
+By using this project you agree that you are responsible for providing or
+creating your own assets and for respecting any third-party IP.
