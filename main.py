@@ -5,7 +5,7 @@ import pyxel
 board = Board()
 
 # The first thing to do is to create the screen
-pyxel.init(board.width, board.height, caption="Super Mario Bros")
+pyxel.init(board.width, board.height)
 # Load the assets
 pyxel.load("assets/marioassets.pyxres")
 # Start the game by calling pyxel.run and passing as parameters the update and draw method of the board
